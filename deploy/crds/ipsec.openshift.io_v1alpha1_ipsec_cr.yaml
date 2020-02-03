@@ -1,0 +1,7 @@
+apiVersion: ipsec.openshift.io/v1alpha1
+kind: IPsec
+metadata:
+  name: example-ipsec
+spec:
+  # Add fields here
+  size: 3
